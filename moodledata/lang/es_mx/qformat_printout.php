@@ -28,4 +28,5 @@ defined('MOODLE_INTERNAL') || die();
 $string['notsupported'] = 'Este tipo de pregunta no está soportado';
 $string['pluginname'] = 'Imprimir para revisar';
 $string['pluginname_help'] = 'Exporta las preguntas, incluyendo todas las respuestas, para imprimirlas. Quitará html de los textos.';
+$string['pluginname_link'] = 'qformat/printout';
 $string['privacy:metadata'] = 'El plugin del formato para imprimir preguntas para revisar no almacena ningún dato personal.';

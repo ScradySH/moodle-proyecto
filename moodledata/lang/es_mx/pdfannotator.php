@@ -230,6 +230,7 @@ $string['missingAnnotation'] = '¡No pudo encontrarse la anotación correspondie
 $string['modifiedby'] = 'por';
 $string['modulename'] = 'Anotación PDF';
 $string['modulename_help'] = 'Esta herramienta permite el marcado colaborativo en documentos PDF. Los usuarios pueden hacer anotaciones en partes específicas de un PDF y discutirlas con otros usuarios.';
+$string['modulename_link'] = 'mod/pdfannotator/view';
 $string['modulenameplural'] = 'Anotaciones PDF';
 $string['month'] = 'mes';
 $string['months'] = 'meses';

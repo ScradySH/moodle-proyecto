@@ -1,0 +1,15 @@
+s:582:"<p>Add blocks to insert content in the footer. You can add up to four blocks and insert any content, text or media, even embed a map.<br />
+Select first the number of blocks to display, then press “Save changes” button and the number of blocks selected will be displayed.<br /><br />
+<b>Example (copy the snippet and paste it in the HTML editor using the &lt;/&gt; button):</b></p>
+
+<pre><code>
+&lt;ul&gt;
+    &lt;li&gt;About Us&lt;/li&gt;
+    &lt;li&gt;Find Us&lt;/li&gt;
+    &lt;li&gt;Contact&lt;/li&gt;
+    &lt;li&gt;Store&lt;/li&gt;
+&lt;/ul&gt;
+</code></pre>
+
+<p><br /></p>
+";

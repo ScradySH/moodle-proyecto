@@ -26,12 +26,17 @@
 defined('MOODLE_INTERNAL') || die();
 
 $string['blockname'] = 'Lista Rápida de Cursos';
+$string['coursecategory'] = 'Categoría';
+$string['coursestartdate'] = 'Fecha de inicio';
 $string['displaymode'] = 'Formato de resultados de la búsqueda';
 $string['displaymodedescription'] = 'De qué forma deberían ser mostrados los resultados de la búsqueda.';
 $string['loading'] = 'Cargando...';
 $string['pluginname'] = 'Lista Rápida de Cursos';
 $string['pluginnameplural'] = 'Listas Rápida de Cursos';
+$string['privacy:metadata'] = 'El block_quickcourselist no almacena ningún dato.';
 $string['quickcourselist'] = 'Lista Rápida de Cursos';
+$string['quickcourselist:addinstance'] = 'Añadir un nuevo bloque quickcourselist';
+$string['quickcourselist:myaddinstance'] = 'Añadir un nuevo bloque quickcourselist al Tablero';
 $string['quickcourselist:use'] = 'Usar Lista Rápida de Cursos';
 $string['restrictcontext'] = 'Restringir resultados por categoría';
 $string['restrictcontextdescription'] = 'Cuando se habilita, solamente cursos debajo de la categoría actual serán regresados de búsquedas en páginas de categoría.';

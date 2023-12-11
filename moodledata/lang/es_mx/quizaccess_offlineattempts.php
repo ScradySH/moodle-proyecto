@@ -28,10 +28,10 @@ defined('MOODLE_INTERNAL') || die();
 $string['allowofflineattempts'] = 'Permitirle al examen que sea intentado fuera-de-línea usando la App Mobile';
 $string['allowofflineattempts_help'] = 'Si se habilita, un usuario de la App mobile puede descargar el examen para intentar resolverlo fuera-de-línea.
 
-Por favor tenga en cuenta que no es posible intentar resolver un examen fuera-de-línea si usa cronómetro descendente, restricción del acceso por contraseña o subred, ni con comportamientos diferentes de retroalimentación diferida (con o sin Puntuación Basada en Certeza).';
+Nota: No es posible intentar resolver un examen fuera-de-línea si tiene un cronómetro descendente, o si requiere una dirección de red, ni con comportamientos del examen diferentes de retroalimentación diferida (con o sin Puntuación Basada en Certeza), ni si usa navegación secuencial.';
 $string['confirmdatasaved'] = 'Yo confirmo que no tengo ningun trabajo no-guardado en un dispositivo móvil.';
 $string['mobileapp'] = 'App Mobile';
-$string['offlineattemptserror'] = 'No es posible intentar resolver un examen fuera-de-línea si usa cronómetro descendente, restricción del acceso por contraseña o subred, ni con comportamientos diferentes de retroalimentación diferida (con o sin Puntuación Basada en Certeza).';
+$string['offlineattemptserror'] = 'No es posible intentar resolver un examen fuera-de-línea si tiene un cronómetro descendente, o si requiere una dirección de red, ni con comportamientos del examen diferentes de retroalimentación diferida (con o sin Puntuación Basada en Certeza), ni si usa navegación secuencial.';
 $string['offlinedatamessage'] = 'Usted ha trabajado en este intento usando un dispositivo móvil. Los datos fueron guardados por última vez en este sitio hace  {$a}.';
 $string['pleaseconfirm'] = 'Por favor, revise y confirme que Usted no tiene ningun trabajo no-guardado.';
 $string['pluginname'] = 'Regla de acceso a intentos fuera-de-línea';

@@ -28,6 +28,8 @@ defined('MOODLE_INTERNAL') || die();
 $string['addlink'] = 'Añadir enlace';
 $string['createteamsmeeting'] = 'Crear reunión de Teams';
 $string['gotomeeting'] = 'Ir a la reunión';
+$string['legacy_setting_warning'] = '<br/>
+<span style="color:red">ADVERTENCIA: La App Meetings en https://enovation.ie/msteams está deprecada y pronto será eliminada. Una App nueva ha sido creada en https://enomsteams.z16.web.core.windows.net.</span>';
 $string['meetingcreatedsuccess'] = '¡La reunión "{$a}" fue creada con éxito!';
 $string['meetingoptions'] = 'Opciones de la reunión';
 $string['meetingsapplink'] = 'URL de la app de reuniones';
@@ -35,7 +37,6 @@ $string['meetingsapplink_desc'] = 'Esta es la URL de la app de reuniones';
 $string['meetingurl'] = 'URL de su reunión';
 $string['openinnewwindow'] = 'Abrir en una nueva ventana';
 $string['pluginname'] = 'Reunión de Teams';
-$string['privacy:metadata'] = 'El plugin de atto_teamsmeeting no almacena ningún dato personal';
 $string['privacy:metadata:msteamsapp'] = 'El plugin Atto Teams Meeting no almacena ningún dato. Sin embargo, envía el código del idioma del usuario a la aplicación Microsoft Teams para proporcionar una interfaz del usuario basada en el idioma del usuario.';
 $string['privacy:metadata:msteamsapp:userlang'] = 'Código del idioma del usuario enviado a la aplicación Microsoft Teams.';
 $string['settings'] = 'Configuración de Reuniones Teams';

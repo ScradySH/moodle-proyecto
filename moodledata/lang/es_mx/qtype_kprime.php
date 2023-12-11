@@ -47,6 +47,7 @@ $string['optionno'] = 'Opción {$a}';
 $string['optionsandfeedback'] = 'Opciones y Retroalimentación';
 $string['pluginname'] = 'Kprime (ETH)';
 $string['pluginname_help'] = 'Las preguntas Kprime consisten de un tallo del ítem y cuatro opciones correspondientes. Par cada opción, los estudiantes tienen que decidir si es "cierta" o "falsa".';
+$string['pluginname_link'] = 'question/type/kprime';
 $string['pluginnameadding'] = 'Añadiendo una pregunta Kprime';
 $string['pluginnameediting'] = 'Editando una pregunta Kprime';
 $string['pluginnamesummary'] = 'En las preguntas Kprime exactamente cuatro opciones tienen que ser correctamente valoradas como "cierta" o "falsa". El método predeterminado de puntaje es "kprime".';

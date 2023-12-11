@@ -445,6 +445,7 @@ $string['courserequestdetails'] = 'Detalles del curso que solicita';
 $string['courserequestfailed'] = 'Por alguna razón desconocida, su solicitud de curso no ha podido guardarse';
 $string['courserequestintro'] = 'Utilice este formato para solicitar la creación de un curso.<br />Suministre toda la información posible para facilitar<br />a los administradores la comprensión de las razones por las que solicita el curso.';
 $string['courserequestreason'] = 'Razones para solicitar el curso';
+$string['courserequestroleerror'] = 'El rol de creador en a configuración de nuevos cursos es inválido. Plor favor vea <a href="{$a}">Políticas para el usuario</a>.';
 $string['courserequestsuccess'] = 'Guardó exitosamente la solicitud de curso. Espere un correo en unos cuantos días que le informará si su solicitud fue aprobada.';
 $string['courserequestsupport'] = 'Información de apoyo para ayudar al administrador a evaluar esta solicitud';
 $string['courserequestwarning'] = 'El usuario que solicita este curso será inscrito automáticamente y se le asignará el rol de "{$a}".';

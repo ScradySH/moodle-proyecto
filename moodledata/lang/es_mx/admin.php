@@ -1511,6 +1511,7 @@ $string['testoutgoingmailconf_subjectadditional'] = 'Asunto adicional';
 $string['testoutgoingmailconf_toemail'] = 'Para la dirección de Email';
 $string['testoutgoingmaildetail'] = 'Nota: Antes de probar, Usted debe guardar su configuración.<br />{$a}';
 $string['testsiteupgradewarning'] = 'Usted actualmente está usando el sitio de prueba  {$a}; para actualizarlo apropiadamente, use la herramienta de interfaz por línea de comando';
+$string['themedefinedinconfigphp'] = 'El tema no puede ser cambiado porque está configurado a {$a} en config.php.';
 $string['themedesignermode'] = 'Modo de diseño de temas';
 $string['themedesignermodewarning'] = 'El modo de diseñador de temas está habilitado. Esto no debería de estar habilitado en sitios de servidores de producción, porque puede reducir significativamente el desempeño.';
 $string['themelist'] = 'Lista de temas';

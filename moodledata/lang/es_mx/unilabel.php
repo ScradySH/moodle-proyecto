@@ -30,6 +30,7 @@ $string['chooseurlfromactivity'] = 'Elegir URL de actividad';
 $string['contentplugins'] = 'Contenido plugins';
 $string['editcontent'] = 'Editar contenido';
 $string['generalsettings'] = 'Configuraciones generales';
+$string['invalidvalue'] = 'Valor inválido';
 $string['labeltype'] = 'Tipo de etiqueta';
 $string['labeltype_help'] = 'El Tipo de etiqueta define la apariencia del contenido. Cada tipo tiene su propia página de configuración.';
 $string['modulename'] = 'Unilabel';

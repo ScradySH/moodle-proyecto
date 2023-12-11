@@ -151,6 +151,7 @@ $string['ifprofilefiedonlyvisible_desc'] = 'Cuando se activa, restringe la marca
 $string['narrowpage'] = 'Página angosta';
 $string['narrowpage_desc'] = 'Habilite esta opción para optimizar la visualización de la información si Moodle está usando un tema con ancho limitado de página (como Boost en Moodle 4.0+).';
 $string['nocompletedcourses'] = 'Ninguno de los cursos en los que usted está inscrito ha sido marcado como completado.';
+$string['notavailable'] = 'No disponible';
 $string['pagebuilder'] = 'Constructor de página';
 $string['pagebuilderlink'] = 'https://www.layoutit.com/build';
 $string['photoeditor'] = 'Editor de foto';

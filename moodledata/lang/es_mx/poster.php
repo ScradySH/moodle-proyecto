@@ -25,6 +25,12 @@
 
 defined('MOODLE_INTERNAL') || die();
 
+$string['display'] = 'Elegir donde mostrar los contenidos del poster';
+$string['display_help'] = 'Este módulo le permite mostrar bloques directamente en la página del curso o en una página separada.';
+$string['displayinline'] = 'Mostrar poster en página del curso';
+$string['displaypage'] = 'Mostrar poster en página separada';
+$string['editlabelbutton'] = 'Ir a ver página';
+$string['editlabelmessage'] = 'Estos bloques deberían ser editados en la página de Ver poster';
 $string['modulename'] = 'Poster';
 $string['modulename_help'] = 'El módulo de Póster le permite a un profesor hacer una página a partir de bloques (como el bloque HTML, el de comentarios, calendario o canales RSS), al arrastrarlos y soltarlos a las localizacione spreferidas.
 Usted puede usar el póster

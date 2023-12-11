@@ -45,7 +45,7 @@ $string['allowsubmissionsfromdate_help'] = 'Active ésto si desea hacer este org
 $string['allowsubmissionsfromdatesummary'] = 'Este organizador aceptará registros desde <strong>{$a}</strong>';
 $string['allowsubmissionstodate'] = 'Termina registro';
 $string['alwaysshowdescription'] = 'Siempre mostrar descripción';
-$string['alwaysshowdescription_help'] = 'Si se deshabilita, la descripción superior de la Tarea solamente será visible para los estudiantes en el afecha de "Inicio del registro".';
+$string['alwaysshowdescription_help'] = 'Si se deshabilita, la descripción superior de la Tarea solamente será visible para los estudiantes en la fecha de "Inicio del registro".';
 $string['applicant'] = 'Esta es lapersona que registró al grupo';
 $string['appointment_reminder_student:fullmessage'] = '¡ Hola {$a->receivername} !
 
@@ -183,6 +183,8 @@ $string['btn_unregister'] = 'Des-registrar';
 $string['calendarsettings'] = 'Configuraciones del calendario';
 $string['can_reregister'] = 'Usted puede re-registrarse a otra cita.';
 $string['cannot_eval'] = 'No se puede evaluar; el estudiante tiene un(a)';
+$string['cfg_dontshowidentity'] = 'Ocultar identidad';
+$string['cfg_dontshowidentity_desc'] = 'Ocultar identidad de los participantes en la lista de lugares';
 $string['changegradewarning'] = 'Este organizador ha calificado citas y el cambiar las configuraciones de la  calificación no re-calculará automáticamente  las calificaciones existentes. Usted debe de re-calificar todas las citas existentes, si desea cambiar la calificación.';
 $string['collision'] = '¡Advertencia! Colisión detectada con los eventos o espacio-tiempos siguientes :';
 $string['configabsolutedeadline'] = 'El diferencial de fecha y hora con respecto a la fecha y hora actuales.';
@@ -637,26 +639,26 @@ $string['multipleappointmentstartdate'] = 'Fecha de inicio';
 $string['mymoodle_app_slot'] = 'Cita el {$a->date} a las {$a->time}';
 $string['mymoodle_attended'] = '{$a->attended}/{$a->total} estudiantes han completado una cita';
 $string['mymoodle_attended_group'] = '{$a->attended}/{$a->total} grupos han completado una cita';
-$string['mymoodle_attended_group_short'] = '{$a->attended}/{$a->total} groupos completados';
-$string['mymoodle_attended_short'] = '{$a->attended}/{$a->total} estudiantes completados';
+$string['mymoodle_attended_group_short'] = '{$a->attended} de {$a->total} grupos han asistido por lo menos a una cita';
+$string['mymoodle_attended_short'] = '{$a->attended} de {$a->total} participantes han asistido por lo menos a una cita';
 $string['mymoodle_completed_app'] = 'Usted completó su cita del {$a->date} a las {$a->time}';
 $string['mymoodle_completed_app_group'] = 'Su grupo {$a->groupname} asistió a la cita el {$a->date} a las {$a->time}';
 $string['mymoodle_missed_app'] = 'Usted no acudió a la cita el {$a->date} a las {$a->time}';
 $string['mymoodle_missed_app_group'] = 'Su grupo {$a->groupname} no asistió a la cita el {$a->date} a las {$a->time}';
 $string['mymoodle_next_slot'] = 'Siguiente espacio en {$a->date} a las {$a->time}';
-$string['mymoodle_no_reg_slot'] = 'Usted aun no se ha registrado a un espacio de tiempo';
-$string['mymoodle_no_reg_slot_group'] = 'Su grupo {$a->groupname} aun no se ha registrado para un espacio-tiempo';
+$string['mymoodle_no_reg_slot'] = 'Usted ha reservado {a->booked} espacios y no ha alcanzado el mínimo de {a->slotsmin} aun.';
+$string['mymoodle_no_reg_slot_group'] = 'Su grupo {$a->groupname} ha reservado {a->booked} espacios y no ha alcanzado el mínimo de {a->slotsmin} espacios aun.';
 $string['mymoodle_no_slots'] = 'Sin espacios próximos futuros';
 $string['mymoodle_organizer_expired'] = 'Este Organizador caducó en {$a->date} a las {$a->time}. Usted ya no puede usarlo más';
 $string['mymoodle_organizer_expires'] = 'Este organizador caduca en {$a->date} a las {$a->time}';
 $string['mymoodle_pending_app'] = 'Su cita está pendiente de evaluación';
 $string['mymoodle_pending_app_group'] = 'Las citas de su grupo {$a->groupname} están pendientes de evaluación';
-$string['mymoodle_reg_slot'] = 'Usted ya se ha registrado a  un espacio-tiempo';
-$string['mymoodle_reg_slot_group'] = 'Su grupo {$a->groupname} ya se ha registrado para un espacio-tiempo';
+$string['mymoodle_reg_slot'] = 'Usted ya ha registrado {a->booked}  espacio-tiempos y por eso ha alcanzado el mínimo de {a->slotsmin} reserrvaciones.';
+$string['mymoodle_reg_slot_group'] = 'Su grupo {$a->groupname} ha reservado {a->booked} espacio-tiempos y por lo tanto alcanzó el mínimo de {a->slotsmin} reservaciones.';
 $string['mymoodle_registered'] = '{$a->registered}/{$a->total} estudiantes se han registrado para una cita';
 $string['mymoodle_registered_group'] = '{$a->registered}/{$a->total} grupos se han registrado para una cita';
-$string['mymoodle_registered_group_short'] = '{$a->registered}/{$a->total} grupos registrados';
-$string['mymoodle_registered_short'] = '{$a->registered}/{$a->total} estudiantes registrados';
+$string['mymoodle_registered_group_short'] = '{$a->registered} de {$a->total} grupos han reservado el mínimo de {a->slotsmin} espacios';
+$string['mymoodle_registered_short'] = '{$a->registered} de {$a->total} participantes han reservado el mínimo de {a->slotsmin} espacios';
 $string['mymoodle_upcoming_app'] = 'Su cita tendrá lugar en {$a->date} a las {$a->time} en {$a->location}';
 $string['mymoodle_upcoming_app_group'] = 'La cita de su grupo, {$a->groupname}, tendrá lugar en {$a->date} a las {$a->time} en {$a->location}';
 $string['newslot'] = 'Añadir más espacio-tiempos';
@@ -842,14 +844,14 @@ $string['register_promotion_student:smallmessage'] = 'Su registro para un espaci
 $string['register_promotion_student:subject'] = 'Organizador Moodle: Promovido desde la cola';
 $string['register_reminder_student:fullmessage'] = '¡ Hola {$a->receivername} !
 
-Como parte del curso{$a->courseid} {$a->coursefullname}, o Usted aun no se ha registrado para ningun espacio-tiempo, o a Usted se le pasó al que se había registrado.
+Como parte del curso{$a->courseid} {$a->coursefullname}, Usted aun no se ha registrado para la cantidad de espacio-tiempos requeridos aun.
 
 {$a->custommessage}
 
 Sistema de Mensajería de Moodle';
 $string['register_reminder_student:group:fullmessage'] = '¡ Hola {$a->receivername} !
 
-Como parte del curso {$a->courseid} {$a->coursefullname}, su grupo {$a->groupname} o no se ha registrado para ningun espacio-tiempo, o a Usted se le pasó al que se había registrado.
+Como parte del curso {$a->courseid} {$a->coursefullname}, su grupo {$a->groupname} no se ha registrado para ningún espacio-tiempo, aun.
 
 {$a->custommessage}
 
@@ -892,16 +894,14 @@ $string['slot_anonymous'] = 'Espacio anónimo';
 $string['slot_slotvisible'] = 'Miembros visibles solamente si es su propio espacio';
 $string['slot_visible'] = 'Miembros del espacio siempre visibles';
 $string['slotassignedby'] = 'Espacio asignado por';
-$string['slotdeleted_notify_student:fullmessage'] = 'Hola {$a->receivername}!
+$string['slotdeleted_notify_student:fullmessage'] = '¡Hola {$a->receivername}!
+
 Su cita en el curso {$a->courseshortname} en {$a->date} a las {$a->time} en {$a->location} fue cancelada.
-Por favor tenga en cuenta que Usted ya no tiene una cita en el organizador  {$a->organizername}.
 Por favor siga el enlace para hacer una nueva cita: {$a->courselink}';
 $string['slotdeleted_notify_student:group:fullmessage'] = 'Hola {$a->receivername}!
 
-Su cita en el curso {$a->courseshortname} en {$a->date} a las {$a->time} en {$a->location} fue cancelada.
-Por favor tenga en cuenta que Usted ya no tiene una cita en el organizador {$a->organizername}.
-Por favor siga el enlace para hacer una nueva cita: {$a->courselink}';
-$string['slotdeleted_notify_student:group:smallmessage'] = 'Su cita en {$a->date} a last {$a->time} en el organizador "{$a->organizername}" fue cancelada.';
+Su cita en el curso {$a->courseshortname} en {$a->date} a las {$a->time} en {$a->location} fue cancelada.';
+$string['slotdeleted_notify_student:group:smallmessage'] = 'Su cita en {$a->date} a las {$a->time} en el organizador "{$a->organizername}" fue cancelada.';
 $string['slotdeleted_notify_student:group:subject'] = '[{$a->courseid}{$a->courseshortname} / {$a->organizername}] - Cita cancelada';
 $string['slotdeleted_notify_student:smallmessage'] = 'Su cita en {$a->date} a las {$a->time} en el organizador "{$a->organizername}" fue cancelada.';
 $string['slotdeleted_notify_student:subject'] = '[{$a->courseid}{$a->courseshortname} / {$a->organizername}] - Cita cancelada';

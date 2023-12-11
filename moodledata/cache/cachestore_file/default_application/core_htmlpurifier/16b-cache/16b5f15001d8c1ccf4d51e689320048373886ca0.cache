@@ -1,0 +1,38 @@
+s:2006:"<h5><b>Moodle version: </b>4.3 (Build: 20231009)</h5>
+
+<h5><b>Boosted version:</b> 1.3.0 (Build: 2023100100)</h5>
+
+<p><br /><br />Boosted es un tema moderno, altamente personalizable, basado en Boost. Usted puede fácilmente configurar algunos elementos: colores, fonts, portada, página para ingreso y muchos más, para desplegar un sitio en minutos.<br /><br /><br /><b>Soporte:</b></p>
+
+<p>Publique sus preguntas en idioma inglés en el  <a href="https://moodle.org/mod/forum/view.php?id=46" target="_blank" rel="noreferrer noopener">Moodle themes forum</a>.
+<br />Por favor, indique la información de arriba acerca de las versiones de  Moodle y de Boosted.</p>
+
+<p><b>Reporte problemas y mejoras:</b></p>
+
+<p>En nuestro repositorio en  Github: <a href="https://github.com/koditik/moodle-theme_boosted" target="_blank" rel="noreferrer noopener">https://github.com/koditik/moodle-theme_boosted</a>
+<br /><u>Por favor, solamente problemas y mejoras. Cualquier otro asunto será eliminado.</u></p>
+
+<p><br /></p>
+
+<h4>Licenses</h4>
+
+<p><b>Boosted is licensed under:</b><br />
+                GPL v3 (GNU General Public License) - <a href="https://www.gnu.org/licenses" target="_blank" rel="noreferrer noopener">
+                https://www.gnu.org/licenses</a></p>
+
+<p><b>The Google Fonts included are licensed under:</b><br />
+                SIL Open Font License v1.1 - <a href="https://scripts.sil.org/OFL" target="_blank" rel="noreferrer noopener">
+                https://scripts.sil.org/OFL</a><br /></p>
+
+<p><br /></p>
+
+<p><span style="font-weight:bolder;">Boosted<br />©2022-2023 koditik</span></p>
+
+<p><span style="font-weight:bolder;">
+                Boosted and Koditik</span> are not affiliated with or endorsed by Moodle.</p>
+
+<div class="boostedbanner">Visite nuestro sitio demo:<br /><br />
+                <a href="https://koditik.com/demo/moodle" target="_blank" style="color:#fff;" rel="noreferrer noopener">
+                https://koditik.com/demo/moodle
+                </a></div>
+";

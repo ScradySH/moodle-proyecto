@@ -44,5 +44,6 @@ $string['privacy:metadata:links'] = 'Enlaces almacenados por el plugin favoritos
 $string['user_favorites:add'] = 'Añadir favorita';
 $string['user_favorites:addinstance'] = 'Añadir un nuevo bloque para favoritos del usuario';
 $string['user_favorites:delete'] = 'Eliminar favoritos';
+$string['user_favorites:edit'] = 'Editar favoritas';
 $string['user_favorites:myaddinstance'] = 'Añadir un nuevo bloque para favoritos del usuario a Mi Moodle';
 $string['user_favorites:view'] = 'Ver favoritos';

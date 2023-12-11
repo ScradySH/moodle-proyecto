@@ -25,6 +25,7 @@
 
 defined('MOODLE_INTERNAL') || die();
 
+$string['Unexpected-symlink-exception'] = 'Symlink inesperado en report/overviewstats/classes/';
 $string['chart-countries'] = 'Países de usuarios';
 $string['chart-countries-info'] = 'Número de países diferentes: {$a}';
 $string['chart-courses'] = 'Cursos';
@@ -41,6 +42,10 @@ $string['chart-langs'] = 'Idiomas preferidos por los usuarios';
 $string['chart-langs-info'] = 'Número de idimas diferentes: {$a}';
 $string['chart-logins'] = 'Usuarios ingresando';
 $string['chart-logins-perday'] = 'Por día';
+$string['course-level-report-exception'] = '¡Reporte a nivel del curso invocado sin referencia al curso!';
+$string['course-numbers'] = 'Número de curso';
+$string['enrolled'] = 'Inscrito';
 $string['overviewstats:view'] = 'Ver Vista general de Estadísticas';
 $string['pluginname'] = 'Vista general de Estadísticas';
 $string['privacy:metadata'] = 'El plugin de Vista General de Estadísticas no almacena ningún dato personal.';
+$string['user-numbers'] = 'Número de usuarios';

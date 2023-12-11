@@ -830,3 +830,4 @@ $string['freemium.upsell_upgradefreepostpone'] = 'Más tarde';
 $string['freemium.upsell_upgradefreetitle'] = 'Mejorar su plan';
 $string['pluginname'] = 'Cadenas de idioma de App Moodle';
 $string['privacy_metadata'] = 'Este plugin no almacena ningún dato del usuario.';
+$string['workplace.teams.isoverdue'] = 'Tiene elementos caducos o expirados';

@@ -26,6 +26,8 @@
 defined('MOODLE_INTERNAL') || die();
 
 $string['assignment'] = 'Tarea';
+$string['btecgrades'] = 'Reporte desglosado BTEC';
+$string['btecreportname'] = 'reporte BTEC';
 $string['csvdownload'] = 'Descargar CSV';
 $string['csvdownload_help'] = 'Descargar una versión separada por comas de la tabla';
 $string['definition'] = 'Definición';

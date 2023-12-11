@@ -1,0 +1,15 @@
+s:685:"<p>Añadir bloque para insertar contenido en el pie de página. Usted puede añadir hasta cuatro bloques e insertar cualquier contenido, texto o medios, inclusive incrustar un mapa.<br />
+Seleccione primeramente el número de bloques a mostrar, después presione el botón para  “Guardar cambios” y el número de bloques seleccionado será mostrado.<br /><br />
+<b>Ejemplo (copie el código muestra y péguelo en el editor HTML usando el botón  &lt;/&gt; ):</b></p>
+
+<pre><code>
+&lt;ul&gt;
+    &lt;li&gt;Acerca de nosotros&lt;/li&gt;
+    &lt;li&gt;Encuéntrenos&lt;/li&gt;
+    &lt;li&gt;Contacto&lt;/li&gt;
+    &lt;li&gt;Tienda&lt;/li&gt;
+&lt;/ul&gt;
+</code></pre>
+
+<p><br /></p>
+";

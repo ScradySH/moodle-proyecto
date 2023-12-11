@@ -55,6 +55,7 @@ $string['openingmode'] = 'Abriendo modo';
 $string['openingmode_fileclick'] = 'Clic en el recurso (mejor experiencia del usuario)';
 $string['openingmode_help'] = 'Seleccione el método para abrir un recurso con Amanote.';
 $string['openingmode_iconnexttofile'] = 'Ícono pequeño junto a recursos';
+$string['openingmode_iconnexttofilewithtext'] = 'Botón "Tomar anotaciones" junto a los recursos';
 $string['openingmode_logonexttofile'] = 'Logo Amanote junto a recursos';
 $string['openpodcast'] = 'Abrir Creador de Podcast';
 $string['openstudentsworks'] = 'Abrir trabajo del estudiante';

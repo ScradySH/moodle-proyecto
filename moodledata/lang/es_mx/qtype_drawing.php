@@ -145,6 +145,7 @@ $string['pathtool'] = 'Herramienta Ruta';
 $string['pleaseenterananswer'] = 'Por favor ingrese una respuesta.';
 $string['pluginname'] = 'Dibujo a mano alzada (ETH)';
 $string['pluginname_help'] = 'En respuesta a una pregunta el estudiante dibuja una solución en una imagen predefinida. Solamente hay una respuesta correcta posible.';
+$string['pluginname_link'] = 'question/type/drawing';
 $string['pluginnameadding'] = 'Añadiendo una pregunta de Dibujo a mano alzada';
 $string['pluginnameediting'] = 'Editando una pregunta de Dibujo a mano alzada';
 $string['pluginnamesummary'] = 'En respuesta a una pregunta, el estudiante dibuja una respuesta en una imagen predefinida. Solamente hay una respuesta correcta posible.';
